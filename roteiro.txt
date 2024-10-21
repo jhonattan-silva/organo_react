@@ -1,0 +1,18 @@
+npx create-react-app organo
+npm start
+criado na porta 3001 - já uso a 3000
+
+Criada pasta componentes dentro do src
+
+Criada pasta Banner dentro de componentes
+criado arquivo Banner JS e CSS dentro de Banner
+
+criada pasta imagens dentro de public e jogada as imagens la
+
+Limpeza:
+limpo o código do app.JS
+apago: app.css, app.test.js, logo.svg, reportWebVitals.js (tirar as chamadas no index.js), setupTests.js
+
+criada pasta CampoTexto e Formulario dentro de componentes
+Dentro da pasta crio CampoTexto.css e .js
+
